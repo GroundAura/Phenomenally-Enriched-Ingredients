@@ -1,1 +1,1 @@
-# [ProjectName](https://github.com/GroundAura/Project-Template/wiki)
+# [Phenomenally Enriched & Nuanced Ingredients for SkyUI](https://github.com/GroundAura/Phenomenally-Enriched-Ingredients/wiki)
